@@ -10,8 +10,8 @@ what you did and what didn't work. Pull requests very welcome.
 
 ### Install
 
-Archlinux: the `irssi` package already ships otr support, there's nothing you need to do.
-Debian based: `apt install irssi-plugin-otr`
+- Archlinux: the `irssi` package already ships otr support, there's nothing you need to do.
+- Debian based: `apt install irssi-plugin-otr`
 
 ### Setup
 
@@ -29,9 +29,9 @@ Note: at the time of writing weechat 2.5 ships with python2 by default. The next
 
 ### Install
 
-Archlinux: `yaourt -S python2-potr`
-Debian based: `apt install python-potr`
-Others: `pip install --upgrade --user python-potr`
+- Archlinux: `yaourt -S python2-potr`
+- Debian based: `apt install python-potr`
+- Others: `pip install --upgrade --user python-potr`
 
 ### Setup
 
