@@ -29,7 +29,7 @@ Note: at the time of writing weechat 2.5 ships with python2 by default. The next
 
 ### Install
 
-- Archlinux: `yaourt -S python2-potr`
+- Archlinux: `yaourt -S python-potr`
 - Debian based: `apt install python-potr`
 - Others: `pip install --upgrade --user python-potr`
 
